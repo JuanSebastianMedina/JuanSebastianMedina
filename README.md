@@ -1,4 +1,4 @@
-I am developing software with Laravel and Filament. 👋
+I am developing software with Laravel, Filament and Blueprint. 👋
 
 <!--
 **JuanSebastianMedina/JuanSebastianMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
