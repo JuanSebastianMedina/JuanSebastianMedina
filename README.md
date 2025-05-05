@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 Tengo que aprender Git Hub y esto está en inglés.
 -->
+
+## Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSebastianMedina&layout=compact&langs_count=8)
