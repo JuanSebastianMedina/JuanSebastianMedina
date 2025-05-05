@@ -19,3 +19,5 @@ Tengo que aprender Git Hub y esto está en inglés.
 ## Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSebastianMedina&layout=compact&langs_count=8)
+![Linux](https://img.shields.io/badge/Linux-Kali-informational?logo=linux)
+![Laravel](https://img.shields.io/badge/Laravel-11-red?logo=laravel)
