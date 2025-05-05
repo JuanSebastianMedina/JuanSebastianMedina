@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 Tengo que aprender Git Hub y esto está en inglés.
 -->
 
-## Lenguajes más usados
-
+## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSebastianMedina&layout=compact&langs_count=8)
+
+## Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSebastianMedina&show_icons=true&theme=dracula)
+
+
+## Skills
 ![Linux](https://img.shields.io/badge/Linux-Kali-informational?logo=linux)
 ![Laravel](https://img.shields.io/badge/Laravel-11-red?logo=laravel)
