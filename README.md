@@ -17,7 +17,7 @@ Tengo que aprender Git Hub y esto está en inglés.
 -->
 
 ## Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSebastianMedina&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSebastianMedina&layout=compact&langs_count=6)
 
 ## Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSebastianMedina&show_icons=true&theme=dracula)
